@@ -1,0 +1,13 @@
+.custom-icon-marker {
+  border: 0.25rem solid rgb(49, 204, 49);
+  border-radius: 50%;
+  width: 2.2rem;
+  height: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: white;
+  color: black;
+  font-weight: bold;
+  font-family: system-ui;
+}
